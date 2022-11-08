@@ -1,0 +1,41 @@
+.title{
+    
+    margin-left: -200px;
+}
+    
+    .setumeibun{
+    float: right;
+    margin-right: -200px;
+    font-size: large;
+    }
+    .samplecode{
+    float: left;
+    margin-left: -200px;
+    font-size: large;
+        }
+
+    .samplecode code{
+        background-color: aqua;
+    }
+    
+    .tugi-pe-zi{
+        position: fixed; 
+        bottom: -700px; 
+        right: 0px;
+        font-size: 25px;
+    }
+    .modoru{
+        position: fixed; 
+        bottom: -700px; 
+        right: 300px;
+        font-size: 25px;
+    }
+
+    .Fig6-2{
+        float: left;
+        margin-left: 50px;
+    }
+
+    .kouzou{
+        border: thick double #32a1ce;
+    }
